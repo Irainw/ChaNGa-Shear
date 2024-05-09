@@ -1,0 +1,19 @@
+# Param file to reproduce Andrews 4.2 test
+# 
+achInFile = glass16.std
+dDelta = 0.02
+bDoGas = 1
+nSteps = 100
+iVerbosity = 0
+iOutInterval = 1
+#bGasAdiabatic = 1
+bGasIsothermal = 1
+bPeriodic = 1
+dPeriod = 1.0
+dKpcUnit = 1
+dMsolUnit = 1000
+# Patch specific
+bPatch = 1
+dCentMass = 1
+dOrbDist = 1
+dSoft = 0.0000244
